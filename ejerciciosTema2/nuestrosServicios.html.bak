@@ -5,9 +5,12 @@
     <title>nuestrosServicios</title>
   </head>
   <body>
-    <div id="lipsum">
-      <h1> FOTOCOPIAS      
-      </h1>
+    <nav> <a href="../ejerciciosTema2/nosotros.html">Ir a Nosotros</a> <a href="../index.html">Ir
+        a Index</a> <a href="https://github.com/Imarpe10/raiz">Ir a mi
+        repositorio</a> <a href="mailto:ejemplo@Gmail.com">Ir a un correo
+        electrónico</a> <a href="#ult">Ir al final de la página web</a> </nav>
+    <div id="lipsum"> <a name="pr"></a>
+      <h1> FOTOCOPIAS </h1>
       <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
         venenatis ex libero, eget ullamcorper erat iaculis at. Nulla ac tellus
         sed tortor vulputate tempus. Maecenas ultrices, lacus id tristique
@@ -27,8 +30,7 @@
         faucibus condimentum. Suspendisse pellentesque lacus nisi, non ultrices
         diam viverra in. Praesent volutpat metus turpis, ut aliquet massa
         scelerisque sed. Praesent sit amet diam orci. Suspendisse potenti. </p>
-      <h1> PLASTIFICADO      
-      </h1>
+      <h1> PLASTIFICADO </h1>
       <p> Fusce eu leo malesuada, molestie mi eu, auctor eros. Duis bibendum
         enim vel nisi ullamcorper gravida. Sed finibus nisl in erat vestibulum,
         non vehicula mauris viverra. Pellentesque id porttitor justo. Aliquam
@@ -50,8 +52,7 @@
         congue. Sed eu venenatis lacus, a dapibus diam. Nulla facilisi. Sed
         imperdiet diam erat, vitae efficitur nisl tincidunt nec. Suspendisse
         efficitur metus vitae elit lacinia ornare. Vivamus quis turpis nibh. </p>
-      <h1> VENTA DE MATERIAL DE PAPELERÍA      
-      </h1>
+      <h1> VENTA DE MATERIAL DE PAPELERÍA </h1>
       <p> Donec placerat tincidunt leo id tincidunt. Curabitur accumsan interdum
         quam, ut venenatis sem rutrum et. Ut purus lectus, iaculis a mauris
         eget, tincidunt laoreet massa. Phasellus tempus quam et nisl facilisis
@@ -71,8 +72,7 @@
         vitae nibh dolor. Etiam id nunc eu odio tincidunt suscipit at a ex.
         Mauris eros neque, lacinia id justo ut, sagittis dignissim risus. Sed
         nulla justo, scelerisque in lorem nec, tincidunt accumsan dui. </p>
-      <h1> IMPRESIÓN DE PLANOS      
-      </h1>
+      <h1> IMPRESIÓN DE PLANOS </h1>
       <p> Duis eget tempus felis. Vivamus eget congue diam. Praesent ullamcorper
         feugiat sem, in consequat lorem pharetra et. Donec quam urna, vulputate
         id eros in, condimentum vestibulum nibh. Pellentesque quis feugiat ante,
@@ -91,8 +91,7 @@
         at finibus mauris. Suspendisse vehicula mauris vitae mi scelerisque, et
         molestie ligula bibendum. Aenean sed consequat massa. Nunc sed hendrerit
         ligula. </p>
-      <h1> MAQUETACIÓN DE LIBROS      
-      </h1>
+      <h1> MAQUETACIÓN DE LIBROS </h1>
       <p> Nullam aliquet iaculis mi ut pharetra. Pellentesque a bibendum tellus.
         Donec porttitor tellus eget semper rutrum. Ut commodo blandit ante, non
         fermentum purus sodales vel. Etiam neque nulla, vehicula id luctus vel,
@@ -108,8 +107,7 @@
         Nullam id tellus quis lorem porttitor sagittis sit amet vel metus.
         Maecenas viverra, justo nec cursus ultricies, lorem magna maximus nunc,
         ut viverra augue nisl ac eros. Ut rhoncus ex et luctus ultricies. </p>
-      <h1> PLOTEADO      
-      </h1>
+      <h1> PLOTEADO </h1>
       <p> Quisque pharetra placerat justo, sit amet facilisis libero mollis a.
         Proin nec fringilla felis. Nulla maximus libero sit amet mi feugiat
         pulvinar. Phasellus vehicula varius nisi, ut vulputate nisi rutrum et.
@@ -125,8 +123,7 @@
         vitae, rutrum finibus purus. Etiam in enim dui. Cras viverra nec nulla
         dapibus posuere. Vivamus in metus at arcu interdum sagittis. Sed
         faucibus est vel sapien porttitor mattis. </p>
-      <h1> TRÍPTICOS      
-      </h1>
+      <h1> TRÍPTICOS </h1>
       <p> Morbi cursus dolor nunc, ut varius nunc egestas quis. Suspendisse
         volutpat tellus quis orci iaculis, id eleifend tortor sollicitudin.
         Etiam in ullamcorper nibh, et vulputate erat. In eget tortor eros.
@@ -148,8 +145,7 @@
         odio leo, eget pharetra enim sagittis ac. Aliquam at laoreet elit. Donec
         non consectetur tellus. Aenean nibh est, imperdiet nec semper vel,
         vestibulum vel sem. Donec sit amet bibendum lacus, eu commodo nisi. </p>
-      <h1> CARTELES      
-      </h1>
+      <h1> CARTELES </h1>
       <p> Fusce eu lectus ultricies augue venenatis volutpat in a dolor. Sed
         elit ligula, tempor dignissim aliquet vitae, efficitur eget dui. Nunc
         semper, mi nec porta suscipit, tellus lorem malesuada tortor, eget
@@ -167,8 +163,7 @@
         porttitor felis eget justo fringilla vestibulum. Fusce condimentum neque
         in nisl dignissim fringilla. Nullam dictum dictum metus, sit amet
         pharetra justo feugiat eu. </p>
-      <h1> MANTENIMIENTO      
-      </h1>
+      <h1> MANTENIMIENTO </h1>
       <p> Morbi mattis arcu id vestibulum feugiat. Etiam tristique ultrices
         eros, sed sollicitudin massa cursus vulputate. Maecenas vitae rutrum
         ante, tristique accumsan erat. Phasellus at augue pharetra, porta ex eu,
@@ -189,8 +184,7 @@
         malesuada fames ac turpis egestas. Nam metus tellus, condimentum eu
         tristique a, eleifend a massa. Etiam tempor, orci et vestibulum aliquam,
         metus nisl luctus neque, sed maximus dolor ipsum at libero. </p>
-      <h1> GESTIÓN      
-      </h1>
+      <h1> GESTIÓN </h1>
       <p> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
         posuere cubilia Curae; Duis luctus odio magna, et pharetra ex varius
         vitae. Nullam dapibus venenatis luctus. Praesent sit amet justo dapibus,
@@ -213,7 +207,7 @@
         arcu tempus ultrices. Praesent varius massa id dui facilisis fringilla.
         Cras sed ullamcorper lorem. Pellentesque ornare nulla id lacus dictum
         egestas. </p>
-    </div>
+      <a name="ult"></a> <a href="#pr">Ir arriba</a> </div>
     <p></p>
     
   </body>
